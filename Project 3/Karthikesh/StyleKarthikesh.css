@@ -1,0 +1,37 @@
+body {
+    display:flex;
+    justify-content:center;
+    align-items:conter;
+    min-height:100vh;
+    
+}
+
+
+.wrapper{
+    margin:130px auto;
+    width:70%;
+}
+
+img{
+    max-width:320px;
+    float:left;
+    
+    border:3px solid;
+    border-radius:10px;
+    margin-right:50px;
+}
+.text-box{
+    color:black;
+
+}
+.text-box h2{
+    font-size:40px;
+}
+
+.text-box h1{
+    font-size:70px;
+}
+
+.text-box p{
+    font-size:16px;
+}
